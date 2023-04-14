@@ -8,6 +8,7 @@ import Conteiner from "./Conteiner"
 const tasks = [
   { id: 1, content: "Przenieść To Do Liste do React.js", done: false },
   { id: 2, content: "Cieszyć się z dobrej roboty", done: true },
+  { id: 3, content: "zacząć pracę domową z 8 modółu", done: true},
 ];
 
 const hideDoneTasks = false;
