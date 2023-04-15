@@ -1,7 +1,7 @@
 
 # To Do List creating with react.js 
 
-##page description
+## page description
 
 the project was created with the npx create-react-app command 
 
@@ -9,7 +9,7 @@ this page tool is just an empty template with no uses or functionality, it's the
 
 *[Page](https://streetwolf123.github.io/to-do-list_react/)
 
-##view
+## view
 
 the application is adapted to large and small screens while maintaining a nice view
 
@@ -17,7 +17,7 @@ has buttons in which each one is highlighted on hover and when clicked, which gi
 
 ![Pictures of website](https://github.com/streetwolf123/to-do-list_react/blob/main/public/img/Zrzut%20ekranu%202023-04-14%20o%2021.37.48.png?raw=true)
 
-##Start Creating With Create React App
+## Start Creating With Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
