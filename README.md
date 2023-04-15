@@ -15,7 +15,7 @@ the application is adapted to large and small screens while maintaining a nice v
 
 has buttons in which each one is highlighted on hover and when clicked, which gives a vivid expression to the application
 
-![Pictures of website](https://github.com/streetwolf123/to-do-list_react/blob/main/img/Zrzut%20ekranu%202023-04-14%20o%2021.37.48.png?raw=true)
+![Pictures of website](https://github.com/streetwolf123/to-do-list_react/blob/main/public/img/Zrzut%20ekranu%202023-04-14%20o%2021.37.48.png?raw=true)
 
 ##Start Creating With Create React App
 
