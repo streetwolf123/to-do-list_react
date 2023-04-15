@@ -5,6 +5,9 @@ import Section from "./Section"
 import Header from "./Header";
 import Container from "./Container"
 
+
+
+
 const tasks = [
   { id: 1, content: "Przenieść To Do Liste do React.js", done: false },
   { id: 2, content: "Cieszyć się z dobrej roboty", done: true },

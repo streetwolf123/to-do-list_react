@@ -5,7 +5,6 @@ const Section = ({title, body, extraHeaderContent}) => (
 
         <header className="section__header">
             <h3 className="section__title">{title}</h3>
-
             {extraHeaderContent}
         </header>
         <div className="section__body">
