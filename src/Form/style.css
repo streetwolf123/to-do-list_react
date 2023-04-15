@@ -15,7 +15,7 @@
     border: 2px solid rgba(78, 76, 76, 0.213);
 }
 
-.form__button--send {
+.form__button {
     padding: 10px;
     background-color: teal;
     color: white;
@@ -24,12 +24,12 @@
     cursor: pointer;
 }
 
-.form__button--send:hover {
+.form__button:hover {
     background-color: rgb(8, 175, 175);
     transform: scale(1.10);
 }
 
-.form__button--send:active {
+.form__button:active {
     background-color: rgb(5, 87, 87);
     transform: scale(1.05);
 }
