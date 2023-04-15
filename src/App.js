@@ -3,7 +3,7 @@ import Tasks from "./Tasks";
 import Buttons from "./Buttons";
 import Section from "./Section"
 import Header from "./Header";
-import Conteiner from "./Conteiner"
+import Container from "./Container"
 
 const tasks = [
   { id: 1, content: "Przenieść To Do Liste do React.js", done: false },
@@ -15,7 +15,7 @@ const hideDoneTasks = false;
 
 function App() {
   return (
-    <Conteiner>
+    <Container>
       <Header
         title="Lista Zadań" />
       <Section
@@ -29,7 +29,7 @@ function App() {
         extraHeaderContent={<Buttons tasks={tasks} hideDoneTasks={hideDoneTasks} />}
       />
 
-    </Conteiner>
+    </Container>
   );
 }
 
