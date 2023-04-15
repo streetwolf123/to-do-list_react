@@ -1,4 +1,23 @@
-# Getting Started with Create React App
+
+# To Do List creating with react.js 
+
+##page description
+
+the project was created with the npx create-react-app command 
+
+this page tool is just an empty template with no uses or functionality, it's the first project made in react.js using github Pages to deploy app.
+
+*[Page](https://streetwolf123.github.io/to-do-list_react/)
+
+##view
+
+the application is adapted to large and small screens while maintaining a nice view
+
+has buttons in which each one is highlighted on hover and when clicked, which gives a vivid expression to the application
+
+![Pictures of website](https://github.com/streetwolf123/to-do-list_react/blob/main/img/Zrzut%20ekranu%202023-04-14%20o%2021.37.48.png?raw=true)
+
+##Start Creating With Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -13,11 +32,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
