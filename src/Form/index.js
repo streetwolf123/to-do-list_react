@@ -2,7 +2,6 @@ import React, {useState} from "react";
 import "./style.css"
 
 const Form = ({addNewTask}) => {
-
     const [newTaskContent, setNewTaskContent] = useState("");
 
     const onInputChange = ({target}) => setNewTaskContent(target.value)
